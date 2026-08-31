@@ -1,2 +1,4 @@
 Project started
 Initial project setup completed
+First selective change
+Second selective change
